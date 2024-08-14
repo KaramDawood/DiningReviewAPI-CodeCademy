@@ -4,4 +4,8 @@ A great help were Dan Vega's videos about Spring Boot!
 
 The API was written using IntelliJ.
 
-If you have any suggestions and tips on what I could improve, do let me know!‬ 
+What I learned:
+- General understanding of the Spring Movel-View-Controller structure.
+* General undersstanding of Annotations, Beans.
+* Starters/dependencies (pom.xml) and application properties.
+* General understanding of CRUD, cURL.
